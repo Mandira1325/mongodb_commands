@@ -1,0 +1,11 @@
+first download that three files from github and paste it in the folder mongo
+
+open that folder in vs code and now open the terminal 
+do following commands--
+1) npm install mongoose
+2) npm install express
+3) node app.js
+
+now open postman --> there create new after overview option -->paste this link at the option --> http://localhost:8082/employees   and then
+perform get and post operations 
+post--> {"name":"mandira","designation":"hr"}
